@@ -10,7 +10,7 @@
 | 按量 1000G | 总量 1000G | — | ¥99 一次性 |
 
 统一规格：设备无限制 / 网速无限制 / 全部节点 / 主流流媒体解锁。
-节点（地区为横评整理、以订阅为准）：JP / SG / US / DE / VN / TH；实际下发以 Trojan 为主，自带自动选择 + 故障转移。
+节点（地区为横评整理、以订阅为准）：JP / SG / US / DE / VN / TH；实际下发含 Trojan + VLESS 双协议，自带自动选择 + 故障转移。
 
 ## 版本 A：简洁版（通用）
 最近在用的 FSCloud，推荐给设备多的人：
@@ -27,5 +27,5 @@ https://web.fscloud.cc/#/register?code=ONHDIaM2
 FSCloud
 套餐：小份 100G/月 ¥13/年起 / 中份 350G/月 ¥12/季起 / 大份 1200G/月 ¥12/月起 / 按量 1000G ¥99
 规格：设备无限制 / 网速无限制 / 全部节点 / 主流解锁
-节点：JP / SG / US / DE / VN / TH（以订阅为准，实测 Trojan）
+节点：JP / SG / US / DE / VN / TH（以订阅为准，实测 Trojan + VLESS）
 注册：https://web.fscloud.cc/#/register?code=ONHDIaM2
